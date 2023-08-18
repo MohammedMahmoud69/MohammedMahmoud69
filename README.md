@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Marketing, SEO**
+<p align="center">- 🌱 I’m currently learning **Marketing, SEO**</p>
 
 - 💬 Ask me about **Backend(Django)**
 
