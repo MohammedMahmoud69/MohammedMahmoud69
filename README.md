@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Hassaan</h1>
 
-<img align="center" hight="450" width="650" src="https://media.istockphoto.com/id/1241710727/vector/working-at-home-vector-flat-style-illustration-  online-career-coworking-space-illustration.jpg?s=612x612&w=0&k=20&c=-GRtSIZlLuusOA2TjOwamNTx_16vB1-m94sFfv2LYiw=" alt="check your internet">
+<p align="center"><img align="center" hight="450" width="650" src="https://media.istockphoto.com/id/1241710727/vector/working-at-home-vector-flat-style-illustration-  online-career-coworking-space-illustration.jpg?s=612x612&w=0&k=20&c=-GRtSIZlLuusOA2TjOwamNTx_16vB1-m94sFfv2LYiw=" alt="check your internet"></p>
+
 <h2 align="center">A backend developer from Egypt </h2>
 
 
@@ -23,13 +24,13 @@
 
 <h2 align="center">Support:</h2>
 <br>
-<a href="https://www.buymeacoffee.com/mohammed7"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mohammed7" /></a>
+<a href="https://www.buymeacoffee.com/mohammed7"> <p align="center"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mohammed7" /> </p> </a>
 <br>
 <br>
 <br>
 
 <h2 align="center">Most Languages I used: <h2>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedmahmoud69&show_icons=true&locale=en&layout=compact" alt="mohammedmahmoud69" />
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedmahmoud69&show_icons=true&locale=en&layout=compact" alt="mohammedmahmoud69" /></p>
 
 
 </p>
