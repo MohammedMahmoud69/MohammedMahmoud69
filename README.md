@@ -1,7 +1,7 @@
-<p align="center"><h1>Hi 👋, I'm Mohammed Hassaan</h1></p>
+<h1 align="center">Hi 👋, I'm Mohammed Hassaan</h1>
 
-<p align="center"><img hight="450" width="650" src="https://media.istockphoto.com/id/1241710727/vector/working-at-home-vector-flat-style-illustration-  online-career-coworking-space-illustration.jpg?s=612x612&w=0&k=20&c=-GRtSIZlLuusOA2TjOwamNTx_16vB1-m94sFfv2LYiw=" alt="check your internet"></p>
-<p align="center"><h2>A backend developer from Egypt </h2></p>
+<img align="center" hight="450" width="650" src="https://media.istockphoto.com/id/1241710727/vector/working-at-home-vector-flat-style-illustration-  online-career-coworking-space-illustration.jpg?s=612x612&w=0&k=20&c=-GRtSIZlLuusOA2TjOwamNTx_16vB1-m94sFfv2LYiw=" alt="check your internet">
+<h2 align="center">A backend developer from Egypt </h2>
 
 
 
@@ -14,7 +14,7 @@
 <p align="center">- ⚡ Fun fact **My age is 15**</p>
 
 
-<p align="center"><h2 align="left">Languages and Tools:</h2></p>
+<h2 align="center" align="left">Languages and Tools:</h2>
 
 <br>
 
@@ -23,13 +23,13 @@
 
 <h2 align="center">Support:</h2>
 <br>
-<p align="center"><a href="https://www.buymeacoffee.com/mohammed7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mohammed7" /></a></p>
+<a href="https://www.buymeacoffee.com/mohammed7"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mohammed7" /></a>
 <br>
 <br>
 <br>
 
 <h2 align="center">Most Languages I used: <h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedmahmoud69&show_icons=true&locale=en&layout=compact" alt="mohammedmahmoud69" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedmahmoud69&show_icons=true&locale=en&layout=compact" alt="mohammedmahmoud69" />
 
 
 </p>
